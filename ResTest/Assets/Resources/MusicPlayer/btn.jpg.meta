@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 77086a1e572562a4abce6b9f900fe839
+timeCreated: 1575807740
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: btn_0
+    21300002: btn_1
+    21300004: btn_2
+    21300006: btn_3
+    21300008: btn_4
+    21300010: btn_5
+    21300012: btn_6
+    21300014: btn_7
+    21300016: btn_8
+    21300018: btn_9
+    21300020: btn_10
+    21300022: btn_11
+    21300024: btn_12
+    21300026: btn_13
+    21300028: btn_14
+    21300030: btn_15
+    21300032: btn_16
+    21300034: btn_17
+    21300036: btn_18
+    21300038: btn_19
+    21300040: btn_20
+    21300042: btn_21
+    21300044: btn_22
+    21300046: btn_23
+    21300048: btn_24
+    21300050: btn_25
+    21300052: btn_26
+    21300054: btn_27
+    21300056: btn_28
+    21300058: btn_29
+    21300060: btn_30
+    21300062: btn_31
+    21300064: btn_32
+    21300066: btn_33
+    21300068: btn_34
+    21300070: btn_35
+    21300072: btn_36
+    21300074: btn_37
+    21300076: btn_38
+    21300078: btn_39
+    21300080: btn_40
+    21300082: btn_41
+    21300084: btn_42
+    21300086: btn_43
+    21300088: btn_44
+    21300090: btn_45
+    21300092: btn_46
+    21300094: btn_47
+    21300096: btn_48
+    21300098: btn_49
+    21300100: btn_50
+    21300102: btn_51
+    21300104: btn_52
+    21300106: btn_53
+    21300108: btn_54
+    21300110: btn_55
+    21300112: btn_56
+    21300114: btn_57
+    21300116: btn_58
+    21300118: btn_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 340.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 272.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 204.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 142
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136.83334
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 68.833336
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8333359
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0.8333359
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 11
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0.8333359
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_59
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0.8333359
+        width: 65
+        height: 68.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
